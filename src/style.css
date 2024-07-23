@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(215, 235, 215);
+  font-family: "Edu AU VIC WA NT Hand";
+}
+
+.app {
+  background: white;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 20px;
+}
