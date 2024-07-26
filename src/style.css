@@ -24,7 +24,7 @@ header {
 .search-form-input {
   background-color: #f9f7fe;
   border: none;
-  border-radius: 6px;
+  border-radius: 46px;
   width: 80%;
   padding: 18px;
   font-size: 16px;
@@ -34,7 +34,7 @@ header {
   background: rgb(159, 219, 68);
   padding: 18px;
   border: none;
-  border-radius: 6px;
+  border-radius: 46px;
   color: white;
   margin-left: 5px;
   font-size: 16px;
@@ -68,22 +68,21 @@ main {
 
 .weather-app-temperature-container {
   display: flex;
-  margin-top: -22px;
 }
 
 .weather-app-temperature {
-  font-size: 80px;
-  font-weight: bold;
-  margin-left: 5px;
+  font-size: 88px;
+  font-weight: bolder;
+  margin-top: -20px;
 }
 
 .weather-app-icon {
-  font-size: 44px;
-  margin-top: 18px;
+  width: 88px;
+  height: 88px;
 }
 
 .weather-app-unit {
-  margin-top: 16px;
+  margin-top: 5px;
   font-size: 28px;
 }
 
